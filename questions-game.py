@@ -29,7 +29,7 @@ st.markdown("""
 
         .stAppToolbar {
             visibility: visible;
-            color: black;
+            color: cyan;
         }
     </style>
 """, unsafe_allow_html=True)
