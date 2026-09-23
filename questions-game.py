@@ -8,10 +8,12 @@ import streamlit as st
 st.set_page_config(page_title="Question Game", page_icon="❓", layout="centered")
 
 st.markdown("""
-    stApp {
-        background-color: purple;
-        color: cyan;
-    }
+    <style>
+        stApp {
+            background-color: purple;
+            color: cyan;
+        }
+    </style>
 """, unsafe_html_allow=True)
 
 fun_questions = [
