@@ -17,6 +17,10 @@ st.markdown("""
         p {
             color: cyan;
         }
+
+        button {
+            background color: #FF7F50;
+        }
     </style>
 """, unsafe_allow_html=True)
 
