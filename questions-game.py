@@ -14,7 +14,7 @@ st.markdown("""
             color: cyan;
         }
     </style>
-""", unsafe_html_allow=True)
+""", unsafe_allow_html=True)
 
 fun_questions = [
     "If you won the lottery, what's the first thing you'd buy?",
