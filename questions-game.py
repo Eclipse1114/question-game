@@ -18,8 +18,8 @@ st.markdown("""
             color: cyan;
         }
 
-        button {
-            background color: brown;
+        .st-emotion-cache-1kre5gu eqzt73c1 {
+            background color: #FF7F50;
         }
     </style>
 """, unsafe_allow_html=True)
