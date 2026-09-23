@@ -19,7 +19,7 @@ st.markdown("""
         }
 
         button {
-            background color: #FF7F50;
+            background color: brown;
         }
     </style>
 """, unsafe_allow_html=True)
