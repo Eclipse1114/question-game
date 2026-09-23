@@ -7,6 +7,13 @@ import streamlit as st
 # ---------------------------------------------------------
 st.set_page_config(page_title="Question Game", page_icon="❓", layout="centered")
 
+st.markdown("""
+    stApp {
+        background-color: purple;
+        color: cyan;
+    }
+""", unsafe_html_allow=True)
+
 fun_questions = [
     "If you won the lottery, what's the first thing you'd buy?",
     "What's your favorite hobby?",
