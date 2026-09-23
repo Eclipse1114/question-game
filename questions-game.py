@@ -13,6 +13,10 @@ st.markdown("""
             background-color: purple;
             color: cyan;
         }
+
+        p {
+            color: cyan;
+        }
     </style>
 """, unsafe_allow_html=True)
 
