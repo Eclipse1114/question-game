@@ -9,7 +9,7 @@ st.set_page_config(page_title="Question Game", page_icon="❓", layout="centered
 
 st.markdown("""
     <style>
-        stApp {
+        .stApp {
             background-color: purple;
             color: cyan;
         }
