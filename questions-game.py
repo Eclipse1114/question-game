@@ -18,8 +18,18 @@ st.markdown("""
             color: cyan;
         }
 
-        .st-emotion-cache-1kre5gu eqzt73c1 {
+        button {
             background color: #FF7F50;
+            color: black;
+        }
+
+        .stAppHeader {
+            visibility: hidden;
+        }
+
+        .stAppToolbar {
+            visibility: visible;
+            color: black;
         }
     </style>
 """, unsafe_allow_html=True)
